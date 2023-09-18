@@ -2,11 +2,13 @@
 
 ## React Components
 
+<a href="https://stackblitz-starters-gjsy5p.stackblitz.io"><img src="./pkmn-four-elements.png" /></a>
+
 How React components enhance code reusability
 
 From:
 
-```js
+```jsx
 <div className="grid grid-cols-2 grid-rows-2 gap-4">
   <div
     className={c(
@@ -22,6 +24,9 @@ From:
 
 To:
 
-```js
+```jsx
 <Element type="fire" />
+<Element type="water" />
+<Element type="electric" />
+<Element type="grass" />
 ```
