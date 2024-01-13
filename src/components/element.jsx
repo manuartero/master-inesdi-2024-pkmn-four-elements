@@ -32,7 +32,7 @@ export function Element({ type, onClick }) {
       )}
       onClick={() => onClick(type)}
     >
-      <i className={c('fa fa-lg', 'text-4xl', assets.icon)}></i>
+      <i className={c('fa fa-lg', 'text-3xl', assets.icon)}></i>
     </div>
   );
 }

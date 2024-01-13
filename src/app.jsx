@@ -1,4 +1,3 @@
-import React from 'react';
 import React, { useState } from 'react';
 import c from 'classnames';
 import { Element } from './components/element';

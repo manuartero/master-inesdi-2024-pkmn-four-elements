@@ -1,6 +1,5 @@
-import React from 'react';
-import c from 'classnames';
 import React, { useState } from 'react';
+import c from 'classnames';
 
 import './style.css';
 import 'font-awesome/css/font-awesome.min.css';

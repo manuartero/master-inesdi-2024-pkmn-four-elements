@@ -1,4 +1,4 @@
-# `pkmn-four-elements` exercise
+# Master INESDI 2024 / `pkmn-four-elements`
 
 ## Week 1: React Components
 
@@ -32,4 +32,12 @@ To:
 <Element type="water" />
 <Element type="electric" />
 <Element type="grass" />
+```
+
+***
+
+```bash
+git clone git@github.com:manuartero/master-inesdi-2024-pkmn-four-elements.git
+cd master-inesdi-2024-pkmn-four-elements/
+npm i && npm start
 ```
