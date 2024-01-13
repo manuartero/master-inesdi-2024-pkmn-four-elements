@@ -1,6 +1,6 @@
 # `pkmn-four-elements` exercise
 
-## React Components
+## Week 1: React Components
 
 <a href="https://stackblitz-starters-gjsy5p.stackblitz.io"><img src="./pkmn-four-elements.png" /></a>
 
@@ -20,6 +20,9 @@ From:
     <i className="fa fa-fire fa-lg"></i>
   </div>
 </div>
+<div>...</div>
+<div>...</div>
+<div>...</div>
 ```
 
 To:
