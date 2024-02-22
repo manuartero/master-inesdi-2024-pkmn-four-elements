@@ -13,8 +13,8 @@ export function App() {
   };
 
   return (
-    <div className="flex flex-col h-screen justify-center items-center">
-      <div className="grid-container">
+    <main className="flex flex-col h-screen justify-center items-center">
+      <div className="element-grid grid-container">
         {selectedType ? (
           <Element type={selectedType} onClick={cleanSelected} />
         ) : (
@@ -31,6 +31,6 @@ export function App() {
           </div>
         )}
       </div>
-    </div>
+    </main>
   );
 }
