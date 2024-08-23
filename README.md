@@ -1,6 +1,10 @@
-# Master INESDI 2024 / `pkmn-four-elements`
+# DEPRECATED
 
-## Week 1: React Components
+## GO TO [master-inesdi-2024-components-introduction](https://github.com/manuartero/master-inesdi-2024-components-introduction)
+
+# ~~Master INESDI 2024 / `pkmn-four-elements`~~
+
+## ~~Week 1: React Components~~
 
 <a href="https://stackblitz-starters-gjsy5p.stackblitz.io"><img src="./pkmn-four-elements.png" /></a>
 
